@@ -1,0 +1,16 @@
+.frist-one{
+    margin-bottom: 60px;
+}
+.frist-to{
+    margin-bottom: 60px;
+}
+.project{
+    margin-bottom: 60px;
+    width: ;
+}
+
+@media screen and(width:200%) {
+    h2{
+        color: red;
+    }
+}
