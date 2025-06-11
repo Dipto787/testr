@@ -1,6 +1,9 @@
 function callBack(){
 
     let element= document.querySelector(' .frist-one');
+    let element= document.querySelector(' .frist-one');
+    let element= document.querySelector(' .frist-one');
+    let element= document.querySelector(' .frist-one');
     
     
     
